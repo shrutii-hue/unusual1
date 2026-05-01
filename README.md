@@ -15,4 +15,4 @@ I am a BTech CSE (AI/ML) student with an interest in technology and problem-solv
 ---
 [![](https://komarev.com/ghpvc/?username=shrutii-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+ 
